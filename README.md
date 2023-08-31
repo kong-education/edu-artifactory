@@ -1,3 +1,3 @@
-# kong-courses-files
+# kong-course-files
 
-Contains files and artifacts for various Kong courses
+Contains files and artefacts for various Kong courses
